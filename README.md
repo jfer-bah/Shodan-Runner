@@ -1,6 +1,6 @@
 # Shodan Runner
 ### Description:
-Shodan Runner is a bash script designed to expedite shodan search queries using the shodan python cli. The script runs a simple nested loop that reads in files and exectutes searches based on the contents on the files. It creates a matrix of the test inside files and attempts to search all combinations of words present in files. The output from the search is stored using the search parameters in the file name for ease of analysis later on.
+Shodan Runner is a bash script designed to expedite shodan search queries using the shodan python cli. The script runs a simple nested loop that reads in files and executes searches based on the contents on the files. It creates a matrix of the test inside files and attempts to search all combinations of words present in files. The output from the search is stored using the search parameters in the file name for ease of analysis later on.
 ### Purpose:
 Shodan is an effective tool for gathering information on Internet facing devices. The shodan-cli does not currently have a built-in option to feed search parameters in order to conduct large scale searches across multiple search parameters in an automated way. 
 ### Process Flow:
