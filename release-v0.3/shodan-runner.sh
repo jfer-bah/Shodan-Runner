@@ -11,6 +11,7 @@ echo '╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═�
 #set vendors = $3
 
 echo 'ver 0.3 / Last update Aug 22, 2016 / created by jfer @ Booz Allen Hamilton'
+echo 'https://github.com/booz-allen-hamilton/Shodan-Runner'
 # changes 
 # v0.3 --documented uses, added input checking, first public release
 # v0.2 --removed parse feature question after download is completed 
